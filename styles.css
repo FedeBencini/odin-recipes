@@ -15,7 +15,7 @@ a {
   color:inherit;
 }
 
-.underAndCream:hover {
+.underAndCream:hover, a:hover {
   text-decoration:underline;
   color:#faebd7;
 }
