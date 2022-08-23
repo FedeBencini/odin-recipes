@@ -1,0 +1,21 @@
+html {
+  background-color:#212529;
+  color: white;
+}
+h1 {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+img {
+  margin: 10px auto;
+}
+a {
+  text-decoration:none;
+  color:inherit;
+}
+
+.underAndCream:hover {
+  text-decoration:underline;
+  color:#faebd7;
+}
