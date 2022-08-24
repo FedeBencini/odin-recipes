@@ -17,8 +17,10 @@ p, li, a {
 p, li {
   font-family: Tahoma, sans-serif;
 }
-img {
-  margin: 10px auto;
+.foodImg {
+  display: block;
+  width: 600px;
+  margin: 0 auto 30px;
 }
 a {
   font-family: 'Times New Roman', sans-serif;
