@@ -11,14 +11,17 @@ h1 {
 h2 {
   font-family: Tahoma, sans-serif;
 }
-p, li {
-  font-family: Tahoma, sans-serif;
+p, li, a {
   font-size: 1.4rem;
 }
+p, li {
+  font-family: Tahoma, sans-serif;
+}
 img {
-  margin: 1rem auto;
+  margin: 10px auto;
 }
 a {
+  font-family: 'Times New Roman', sans-serif;
   text-decoration:none;
   color:inherit;
 }
